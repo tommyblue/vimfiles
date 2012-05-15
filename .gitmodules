@@ -1,3 +1,15 @@
+[submodule "bundle/vundle"]
+	path = bundle/vundle
+	url = git://github.com/gmarik/vundle.git
+  ignore = dirty
+[submodule "bundle/FuzzyFinder"]
+	path = bundle/FuzzyFinder
+	url = git://github.com/vim-scripts/FuzzyFinder.git
+  ignore = dirty
+[submodule "bundle/L9"]
+	path = bundle/L9
+	url = git://github.com/vim-scripts/L9.git
+  ignore = dirty
 [submodule "snippets"]
 	path = snippets
 	url = git://github.com/asux/snipmate-snippets.git
