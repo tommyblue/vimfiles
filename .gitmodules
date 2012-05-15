@@ -2,6 +2,10 @@
 	path = bundle/vundle
 	url = git://github.com/gmarik/vundle.git
   ignore = dirty
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = git://github.com/rstacruz/sparkup.git
+  ignore = dirty
 [submodule "bundle/command-t"]
 	path = bundle/command-t
 	url = git://git.wincent.com/command-t.git
