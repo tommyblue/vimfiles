@@ -2,6 +2,10 @@
 	path = bundle/vundle
 	url = git://github.com/gmarik/vundle.git
   ignore = dirty
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
+  ignore = dirty
 [submodule "bundle/FuzzyFinder"]
 	path = bundle/FuzzyFinder
 	url = git://github.com/vim-scripts/FuzzyFinder.git
